@@ -9,3 +9,6 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ![](https://javascript30.com/images/JS3-social-share.png)
 
 Day 1 [Drum Kit](./solutions/01%20-%20JavaScript%20Drum%20Kit/index.html)
+Day 2 [JS adn CSS Clock](./solutions/02%20-%20JS%20and%20CSS%20Clock/index.html)
+Day 3 [CSS Variables](./solutions/03%20-%20CSS%20Variables/index.html)
+Day 4 [Array Cardio](./solutions/04 - Array Cardio Day 1)
